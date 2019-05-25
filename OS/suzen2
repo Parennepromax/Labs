@@ -1,5 +1,2 @@
 #!/bin/bash
-
-ls
-cat :*
-echo Flag is: dGhlaWxpM2FoWm9odGFpM2VldzMK
+var=$(cat :* | tail -c29); echo "Flag is $var"
