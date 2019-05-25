@@ -1,4 +1,2 @@
-#!bin/bash
-ls
-cat diary.txt
-echo Flag is:ZGFpejZhaFJhZVNhZXhhaWJ1YWYK
+#!/bin/bash
+var=$(cat diary.txt); echo "Flag is $var" 
