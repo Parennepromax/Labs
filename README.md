@@ -9,5 +9,5 @@
 |:-:|:------------------:|:---------|
 | 1 | Готово             | Пройдены suzen для уровня beginer |
 | 2 | *В процессе*       | Установлен Debian                 |
-| 3 | Готово             | [Загружены](https://github.com/Parennepromax/labs/tree/master/OS) скрипты для 12 suzen         |
+| 3 | Готово             | [Загружены](https://github.com/Parennepromax/labs/tree/master/OS) скрипты для 10 suzen         |
 | 4 | Готово             | Постарался использовать все [описанные](https://github.com/bykvaadm/OS/tree/master/admin/lab4) функции Markdown |
