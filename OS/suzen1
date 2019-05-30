@@ -1,2 +1,3 @@
 #!/bin/bash
-var=$(cat diary.txt); echo "Flag is $var" 
+var=$(cat diary.txt);
+echo "Flag is $var" 
