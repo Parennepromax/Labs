@@ -1,3 +1,0 @@
-#!/bin/bash
-var=$(ls -a | tail -c29)
-echo 'flag is' $var

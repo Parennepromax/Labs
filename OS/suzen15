@@ -1,3 +1,0 @@
-#!/bin/bash
-var=$(pwd | tail -c29)
-echo 'flaf is:' $var

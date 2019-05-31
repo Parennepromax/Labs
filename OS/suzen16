@@ -1,2 +1,0 @@
-#!/bin/bash
-var=$(id | egrep -o "[A-Za-z0-9]{28}"); echo "Flag is $var" 
