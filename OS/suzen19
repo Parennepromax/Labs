@@ -1,5 +1,5 @@
 #!/bin/bash
-
 mkdir -p Documents/projects/lab19/using/simple/bash/commands
+sleep 1
 var=$(ls Documents/projects/lab19/using/simple/bash/commands)
-echo 'flag is:' $var
+echo 'flag is' $var
