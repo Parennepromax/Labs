@@ -1,0 +1,3 @@
+#!/bin/bash
+var=$(cat :* | tail -c29); 
+echo "Flag is $var"
