@@ -10,4 +10,4 @@
 | 1 | [Готово](https://github.com/Parennepromax/labs/tree/master/OS) | Загружены скрипты для 10 suzen |
 | 2 | *В процессе*       | Установлен Debian                 |
 | 3 | *В процессе*       |                                   |
-| 4 | *В процессе*       | Постарался использовать все [описанные](https://github.com/bykvaadm/OS/tree/master/admin/lab4) функции Markdown |
+| 4 | *Не готово*        |                                   |
