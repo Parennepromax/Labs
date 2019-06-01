@@ -7,7 +7,7 @@
   
 | № | Готовность         | Описание |
 |:-:|:------------------:|:---------|
-| 1 | [Готово](https://github.com/Parennepromax/labs/tree/master/OS) | Загружены скрипты для 10 suzen |
+| 1 | [Готово](https://github.com/Parennepromax/labs/tree/master/OS)  | Загружены скрипты для 10 suzen |
 | 2 | *В процессе*       | Установлен Debian                 |
-| 3 | *В процессе*       |                                   |
+| 3 | [Готово](https://github.com/Parennepromax/Labs/tree/master/lab3)| Всё работает, файлы запушил    |
 | 4 | *Не готово*        |                                   |
